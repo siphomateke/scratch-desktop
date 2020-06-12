@@ -1,0 +1,8 @@
+{
+	"src": "./",
+	"arch": "amd64",
+	"icon": "./resources/icon.png",
+	"categories": [
+		"Education"
+	]
+}
